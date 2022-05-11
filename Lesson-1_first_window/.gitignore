@@ -1,0 +1,6 @@
+build/
+exec/
+out/
+.vs/
+.vscode/
+.cache/
